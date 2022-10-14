@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-a = 0
+a = 3
 if __name__ == '__main__':
     print_hi('PyCharm')
 
